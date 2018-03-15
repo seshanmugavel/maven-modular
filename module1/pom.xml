@@ -10,5 +10,4 @@
   <groupId>io.jitpack</groupId>
   <artifactId>module1</artifactId>
   <name>module1</name>
-  <url>http://maven.apache.org</url>
 </project>
