@@ -20,12 +20,12 @@
     </dependency>
   </dependencies>
   <modules>
-    <module>ServiceOne</module>
-    <module>ServiceTwo</module>
+    <module>serviceOne</module>
+    <module>serviceTwo</module>
   </modules>
   
   <build>
-    <finalName>${project.name}-${project.version}.${build.number}-SNAPSHOT</finalName>
+    <finalName>${project.artifactId}-${project.version}.${build.number}-SNAPSHOT</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
