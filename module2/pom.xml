@@ -8,7 +8,7 @@
     <version>SNAPSHOT</version>
   </parent>
   <groupId>io.jitpack</groupId>
-  <artifactId>module2</artifactId>
+  <artifactId>ServiceTwo</artifactId>
   <version>${ServiceTwoVersionPattern}</version>
-  <name>module2</name>
+  <name>ServiceTwo</name>
 </project>
