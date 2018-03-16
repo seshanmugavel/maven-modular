@@ -11,7 +11,4 @@
   <artifactId>module2</artifactId>
   <version>${ServiceTwoVersionPattern}</version>
   <name>module2</name>
-  <build>
-      <finalName>${project.name}-${project.version}.${build.number}-SNAPSHOT</finalName>
-  </build>
 </project>
