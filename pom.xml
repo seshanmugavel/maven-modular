@@ -20,8 +20,8 @@
     </dependency>
   </dependencies>
   <modules>
-    <module>module1</module>
-    <module>module2</module>
+    <module>ServiceOne</module>
+    <module>ServiceTwo</module>
   </modules>
   
   <build>
