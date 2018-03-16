@@ -25,7 +25,7 @@
   </modules>
   
   <build>
-    
+    <finalName>${project.name}-${project.version}.${build.number}-SNAPSHOT</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
